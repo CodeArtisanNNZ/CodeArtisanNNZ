@@ -10,7 +10,7 @@ Full-stack developer building purposeful technology around real problems.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeArtisanNNZ&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=8B5CF6" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodeArtisanNNZ&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=8B5CF6" alt="GitHub stats" />
 
 <br/><br/>
 
