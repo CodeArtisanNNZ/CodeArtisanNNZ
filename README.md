@@ -20,4 +20,4 @@ Full-stack developer building purposeful technology around real problems.
 
 ## Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeArtisanNNZ&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeArtisanNNZ&theme=github_dark&title_color=C4B5FD&text_color=DDD6FE&bg_color=0D1117&border_color=312E81&icon_color=A78BFA&chart_color=8B5CF6" alt="GitHub contribution activity" />
