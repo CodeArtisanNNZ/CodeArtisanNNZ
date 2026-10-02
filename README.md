@@ -2,6 +2,10 @@
 
 Full-stack developer building purposeful technology around real problems.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CodeArtisanNNZ&label=profile%20views&color=6D28D9&style=flat" alt="Profile views" />
+</p>
+
 ## GitHub Activity
 
 <div align="center">
